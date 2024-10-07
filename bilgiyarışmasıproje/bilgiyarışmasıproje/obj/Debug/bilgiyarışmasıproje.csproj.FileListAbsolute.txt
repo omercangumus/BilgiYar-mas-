@@ -1,0 +1,20 @@
+D:\vs projeler\bilgiyarışmasıproje\bilgiyarışmasıproje\bin\Debug\bilgiyarışmasıproje.exe.config
+D:\vs projeler\bilgiyarışmasıproje\bilgiyarışmasıproje\bin\Debug\bilgiyarışmasıproje.exe
+D:\vs projeler\bilgiyarışmasıproje\bilgiyarışmasıproje\bin\Debug\bilgiyarışmasıproje.pdb
+D:\vs projeler\bilgiyarışmasıproje\bilgiyarışmasıproje\obj\Debug\bilgiyarışmasıproje.csprojAssemblyReference.cache
+D:\vs projeler\bilgiyarışmasıproje\bilgiyarışmasıproje\obj\Debug\bilgiyarışmasıproje.Form1.resources
+D:\vs projeler\bilgiyarışmasıproje\bilgiyarışmasıproje\obj\Debug\bilgiyarışmasıproje.Properties.Resources.resources
+D:\vs projeler\bilgiyarışmasıproje\bilgiyarışmasıproje\obj\Debug\bilgiyarışmasıproje.csproj.GenerateResource.cache
+D:\vs projeler\bilgiyarışmasıproje\bilgiyarışmasıproje\obj\Debug\bilgiyarışmasıproje.csproj.CoreCompileInputs.cache
+D:\vs projeler\bilgiyarışmasıproje\bilgiyarışmasıproje\obj\Debug\bilgiyarışmasıproje.exe
+D:\vs projeler\bilgiyarışmasıproje\bilgiyarışmasıproje\obj\Debug\bilgiyarışmasıproje.pdb
+C:\Users\omerc\Desktop\Yeni klasör (2)\bilgiyarışmasıproje\bilgiyarışmasıproje\bin\Debug\bilgiyarışmasıproje.exe.config
+C:\Users\omerc\Desktop\Yeni klasör (2)\bilgiyarışmasıproje\bilgiyarışmasıproje\bin\Debug\bilgiyarışmasıproje.exe
+C:\Users\omerc\Desktop\Yeni klasör (2)\bilgiyarışmasıproje\bilgiyarışmasıproje\bin\Debug\bilgiyarışmasıproje.pdb
+C:\Users\omerc\Desktop\Yeni klasör (2)\bilgiyarışmasıproje\bilgiyarışmasıproje\obj\Debug\bilgiyarışmasıproje.csprojAssemblyReference.cache
+C:\Users\omerc\Desktop\Yeni klasör (2)\bilgiyarışmasıproje\bilgiyarışmasıproje\obj\Debug\bilgiyarışmasıproje.Form1.resources
+C:\Users\omerc\Desktop\Yeni klasör (2)\bilgiyarışmasıproje\bilgiyarışmasıproje\obj\Debug\bilgiyarışmasıproje.Properties.Resources.resources
+C:\Users\omerc\Desktop\Yeni klasör (2)\bilgiyarışmasıproje\bilgiyarışmasıproje\obj\Debug\bilgiyarışmasıproje.csproj.GenerateResource.cache
+C:\Users\omerc\Desktop\Yeni klasör (2)\bilgiyarışmasıproje\bilgiyarışmasıproje\obj\Debug\bilgiyarışmasıproje.csproj.CoreCompileInputs.cache
+C:\Users\omerc\Desktop\Yeni klasör (2)\bilgiyarışmasıproje\bilgiyarışmasıproje\obj\Debug\bilgiyarışmasıproje.exe
+C:\Users\omerc\Desktop\Yeni klasör (2)\bilgiyarışmasıproje\bilgiyarışmasıproje\obj\Debug\bilgiyarışmasıproje.pdb
